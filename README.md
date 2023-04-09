@@ -1,3 +1,4 @@
-# Internet_protocols
+# Autonomous systems tracing
 
-Assignments on the subject of Internet protocols.
+To run the program, in the ip field of the main method, enter
+IP address or domain name.
