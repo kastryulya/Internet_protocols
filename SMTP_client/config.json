@@ -1,0 +1,8 @@
+{
+  "from": "awesome.testtest.test@yandex.ru",
+  "to": ["awesome.testtest.test@yandex.ru", "ukorsunova02@yandex.ru"],
+  "subject": "TEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕTEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕTEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕTEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕTEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕTEST MESSAGE ТЕСТОВОЕ СООБЩЕНИЕ",
+  "host_addr": "smtp.yandex.ru",
+  "port": 465,
+  "boundary_msg": "bound.40629"
+}
